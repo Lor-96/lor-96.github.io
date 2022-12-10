@@ -1,6 +1,6 @@
 | Limitate:                   | Formato: | Stato: |
 |:---------------------------:|:--------:|:---------------------------------------------------------:|
-| Breaker il Guerriero Magico | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> | <span style="background-color:#FF9900">
+<span style="background-color:#FF9900">| Breaker il Guerriero Magico | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
 | Insetto Mangia-Uomini       | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
 | Jinzo                       | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
 | Mago della Fede             | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
@@ -9,7 +9,7 @@
 | Sangan                      | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
 | Signora Guerriera D.D.      | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
 | Strega della Foresta Nera   | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
-| Anfora dell'Avidità         | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> | <span style="background-color:##00CC99">
+<span style="background-color:##00CC99">| Anfora dell'Avidità         | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
 | Ciclone Cosmico             | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
 | Freccia Spezza-Magia        | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
 | Mostro Resuscitato          | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
@@ -18,7 +18,7 @@
 | Spada Rivelatrice           | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
 | Tifone Spaziale Mistico     | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
 | Tempesta Potente            | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
-| Forza Riflessa              | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> | <span style="background-color:##FF3399">
+<span style="background-color:##FF3399">| Forza Riflessa              | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
 | Armatura Sakuretsu          | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
 | Tributo Torrenziale         | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
 | Cilindro Magico             | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
