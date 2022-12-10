@@ -29,3 +29,5 @@
 | ![#ff3399](https://placehold.co/15x15/ff3399/ff3399.png) | Richiamo del Posseduto      | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
 | ![#ff3399](https://placehold.co/15x15/ff3399/ff3399.png) | Risvegliare il Drago        | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
 | ![#ff3399](https://placehold.co/15x15/ff3399/ff3399.png) | Waboku                      | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
+
+Go to [about page](about.md)
