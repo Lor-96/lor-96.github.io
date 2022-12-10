@@ -1,3 +1,9 @@
+---
+title: ABOUT PAGE
+layout: template
+filename: about.md
+--- 
+
 |Mostri Normali:                    |Tipo: |
 |:---------------------------------:|:----:|
 | Abisso Splendente                 | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
