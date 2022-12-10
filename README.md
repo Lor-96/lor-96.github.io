@@ -1,6 +1,6 @@
 <span style="color:blue">some *blue* text</span>
 
-| Limitate:                   | Formato: | Stato: |
+| :panel[text]{color=white backgroundColor=black} Limitate:                   | Formato: | Stato: |
 |:---------------------------:|:--------:|:---------------------------------------------------------:|
 | Breaker il Guerriero Magico | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
 | Insetto Mangia-Uomini       | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
