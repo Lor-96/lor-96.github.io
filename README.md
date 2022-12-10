@@ -1,6 +1,3 @@
-# Bash Duel
-
-
 | Limitate:                   | Formato: | Stato: |
 |:-----------------------------:|:----------:|:--------:|
 | Breaker il Guerriero Magico | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
