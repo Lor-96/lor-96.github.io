@@ -1,4 +1,4 @@
-title: Bash Duel
+# Bash Duel
 
 
 | Limitate:                   | Formato: | Stato: |
