@@ -1,9 +1,16 @@
 # Banlist Bash Duel 
 ### Per vedere le altre carte consentite all'interno del formato segui i link in basso:
-Go to [Mostri Normali](/pages/Mostri Normali.md)
-Elenco per i [Mostri Rituale](/pages/Mostri Rituale.md)
-Elenco per i [Mostri con Effetto](/pages/Mostri con Effetto.md)
-Elenco per i [Mostri dell'Extra Deck](/pages/Mostri Extra Deck.md)
+
+
+[Mostri Normali](/pages/MostriNormali.md)
+
+[Mostri Rituale](/pages/MostriRituale.md)
+
+[Mostri con Effetto](/pages/MostriEffetto.md)
+
+[Mostri dell'Extra Deck](/pages/MostriExtraDeck.md)
+
+---
 
 
 |Tipo:     | Limitate:                   | Formato: | Stato: |
