@@ -1,4 +1,6 @@
-# Bash Duel
+theme: jekyll-theme-minimal
+title: Bash Duel
+description: Bookmark this to keep an eye on my project updates!
 
 | Limitate:                   | Formato: | Stato: |
 |:-----------------------------:|:----------:|:--------:|
