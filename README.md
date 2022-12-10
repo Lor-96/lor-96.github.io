@@ -8,7 +8,7 @@
 
 | Limitate:                   | Formato: | Stato: |
 |:---------------------------:|:--------:|:---------------------------------------------------------:|
-| !Breaker il Guerriero Magico | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
+| ```diff !Breaker il Guerriero Magico ``` | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
 | Insetto Mangia-Uomini       | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
 | Jinzo                       | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
 | Mago della Fede             | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
