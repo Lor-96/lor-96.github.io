@@ -1,31 +1,31 @@
 # Bash Duel
 
 | Limitate:                   | Formato: | Stato: |
-|-----------------------------|----------|--------|
-| Breaker il Guerriero Magico | Limitata | ![](/images/limited.png =100x100) |
-| Insetto Mangia-Uomini       | Limitata | ![](/images/limited.png =100x100) |
-| Jinzo                       | Limitata | ![](/images/limited.png =100x100) |
-| Mago della Fede             | Limitata | ![](/images/limited.png =100x100) |
-| Marshmellon                 | Limitata | ![](/images/limited.png =100x100) |
-| Maschera dell'Oscurità      | Limitata | ![](/images/limited.png =100x100) |
-| Sangan                      | Limitata | ![](/images/limited.png =100x100) |
-| Signora Guerriera D.D.      | Limitata | ![](/images/limited.png =100x100) |
-| Strega della Foresta Nera   | Limitata | ![](/images/limited.png =100x100) |
-| Anfora dell'Avidità         | Limitata | ![](/images/limited.png =100x100) |
-| Ciclone Cosmico             | Limitata | ![](/images/limited.png =100x100) |
-| Freccia Spezza-Magia        | Limitata | ![](/images/limited.png =100x100) |
-| Mostro Resuscitato          | Limitata |        |
-| Rinforzi dell'Esericito     | Limitata |        |
-| Sepoltura Sciocca           | Limitata |        |
-| Spada Rivelatrice           | Limitata |        |
-| Tifone Spaziale Mistico     | Limitata |        |
-| Tempesta Potente            | Limitata |        |
-| Forza Riflessa              | Limitata |        |
-| Armatura Sakuretsu          | Limitata |        |
-| Tributo Torrenziale         | Limitata |        |
-| Cilindro Magico             | Limitata |        |
-| Anello della Distruzione    | Limitata |        |
-| Buco Trappola Senza Fine    | Limitata |        |
-| Richiamo del Posseduto      | Limitata |        |
-| Risvegliare il Drago        | Limitata |        |
-| Waboku                      | Limitata |
+|:-----------------------------:|:----------:|:--------:|
+| Breaker il Guerriero Magico | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
+| Insetto Mangia-Uomini       | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
+| Jinzo                       | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
+| Mago della Fede             | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
+| Marshmellon                 | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
+| Maschera dell'Oscurità      | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
+| Sangan                      | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
+| Signora Guerriera D.D.      | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
+| Strega della Foresta Nera   | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
+| Anfora dell'Avidità         | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
+| Ciclone Cosmico             | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
+| Freccia Spezza-Magia        | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
+| Mostro Resuscitato          | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
+| Rinforzi dell'Esericito     | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
+| Sepoltura Sciocca           | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
+| Spada Rivelatrice           | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
+| Tifone Spaziale Mistico     | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
+| Tempesta Potente            | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
+| Forza Riflessa              | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
+| Armatura Sakuretsu          | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
+| Tributo Torrenziale         | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
+| Cilindro Magico             | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
+| Anello della Distruzione    | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
+| Buco Trappola Senza Fine    | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
+| Richiamo del Posseduto      | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
+| Risvegliare il Drago        | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
+| Waboku                      | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
