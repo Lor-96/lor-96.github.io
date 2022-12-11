@@ -1,4 +1,3 @@
-# BASH DUEL Homepage
 
 ## Banlist Bash Duel 
 
