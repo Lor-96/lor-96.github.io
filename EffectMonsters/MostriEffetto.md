@@ -10,6 +10,10 @@
 
 [Mostri dell'Extra Deck](/ExtraDeckMonsters/MostriExtraDeck.md)
 
+[Magie](/Spells/Magie.md)
+
+[Trappole](/Traps/Trappole.md)
+
 
 ---
 
