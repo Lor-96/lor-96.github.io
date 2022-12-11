@@ -1,4 +1,7 @@
-# Carte Trappola consentite nel formato Bash Duel 
+# BASH DUEL Homepage
+
+## Carte Trappola consentite nel formato Bash Duel 
+
 ### Per vedere le altre carte consentite all'interno del formato segui i link in basso:
 
 
