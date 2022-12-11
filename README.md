@@ -1,5 +1,6 @@
+# Bash Duel Homepage
 
-## Banlist Bash Duel 
+### Banlist Bash Duel 
 
 ### Per vedere le altre carte consentite all'interno del formato segui i link in basso:
 
