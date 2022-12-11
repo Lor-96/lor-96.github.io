@@ -1,5 +1,6 @@
+# Bash Duel Homepage
 
-## Mostri Normali consentiti nel formato Bash Duel 
+### Mostri Normali consentiti nel formato Bash Duel 
 
 ### Per vedere le altre carte consentite all'interno del formato segui i link in basso:
 
