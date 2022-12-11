@@ -1,4 +1,3 @@
-# BASH DUEL Homepage
 
 ## Carte Trappola consentite nel formato Bash Duel 
 
