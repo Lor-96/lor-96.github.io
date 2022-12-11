@@ -6,7 +6,7 @@
 
 [Mostri Rituale](/RitualMonsters/MostriRituale.md)
 
-[Banlist](README.md)
+[Banlist](lor-96.github.io/README.md)
 
 [Mostri dell'Extra Deck](/ExtraDeckMonsters/MostriExtraDeck.md)
 
