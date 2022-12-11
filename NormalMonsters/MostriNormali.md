@@ -1,4 +1,3 @@
-# BASH DUEL Homepage
 
 ## Mostri Normali consentiti nel formato Bash Duel 
 
