@@ -1,4 +1,3 @@
-# BASH DUEL Homepage
 
 ## Mostri dell'Extra Deck consentiti nel formato Bash Duel 
 
