@@ -10,11 +10,17 @@
 
 [Mostri dell'Extra Deck](/ExtraDeckMonsters/MostriExtraDeck.md)
 
+
+---
+
+
 |Divinità:                                               |Tipo: |
 |:------------------------------------------------------:|:----:|
 | Slifer il Drago del Cielo                                     | ![#ff5050](https://placehold.co/15x15/ff5050/ff5050.png) |
 | Drago Alato di Ra                                             | ![#F6e47a](https://placehold.co/15x15/F6e47a/F6e47a.png) |
 | Obelisk il Tormentatore                                       | ![#6a71fe](https://placehold.co/15x15/6a71fe/6a71fe.png) |
+
+---
 
 | Mostri con Effetto:                                           |Tipo: |
 |:-------------------------------------------------------------:|:----:|
