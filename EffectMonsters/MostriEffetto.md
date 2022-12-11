@@ -1,3 +1,14 @@
+# Banlist Bash Duel 
+### Per vedere le altre carte consentite all'interno del formato segui i link in basso:
+
+
+[Mostri Normali](/NormalMonsters/MostriNormali.md)
+
+[Mostri Rituale](/RitualMonsters/MostriRituale.md)
+
+[Banlist](README.md)
+
+[Mostri dell'Extra Deck](/ExtraDeckMonsters/MostriExtraDeck.md)
 
 |Divinità:                                               |Tipo: |
 |:------------------------------------------------------:|:----:|
