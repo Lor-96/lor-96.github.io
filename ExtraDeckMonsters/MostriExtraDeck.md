@@ -1,3 +1,19 @@
+# Banlist Bash Duel 
+### Per vedere le altre carte consentite all'interno del formato segui i link in basso:
+
+
+[Mostri Normali](/NormalMonsters/MostriNormali.md)
+
+[Mostri Rituale](/RitualMonsters/MostriRituale.md)
+
+[Mostri con Effetto](/EffectMonsters/MostriEffetto.md)
+
+[Banlist](README.md)
+
+
+---
+
+
 |Mostri Extra Deck:                 |Tipo: |
 |:---------------------------------:|:----:|
 | Bastione Distruttore EROE Elementale    | ![#9966ff](https://placehold.co/15x15/9966ff/9966ff.png) |
