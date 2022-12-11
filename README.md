@@ -2,13 +2,13 @@
 ### Per vedere le altre carte consentite all'interno del formato segui i link in basso:
 
 
-[Mostri Normali](/pages/MostriNormali.md)
+[Mostri Normali](/NormalMonsters/MostriNormali.md)
 
-[Mostri Rituale](/pages/MostriRituale.md)
+[Mostri Rituale](/RitualMonsters/MostriRituale.md)
 
-[Mostri con Effetto](/pages/MostriEffetto.md)
+[Mostri con Effetto](/EffectMonsters/MostriEffetto.md)
 
-[Mostri dell'Extra Deck](/pages/MostriExtraDeck.md)
+[Mostri dell'Extra Deck](/ExtraDeckMonsters/MostriExtraDeck.md)
 
 ---
 
