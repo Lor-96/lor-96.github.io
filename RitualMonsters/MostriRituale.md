@@ -1,4 +1,3 @@
-# BASH DUEL Homepage
 
 ## Mostri Rituale consentiti nel formato Bash Duel 
 
