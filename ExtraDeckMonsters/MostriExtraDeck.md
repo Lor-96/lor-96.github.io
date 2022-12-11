@@ -10,6 +10,9 @@
 
 [Banlist](README.md)
 
+[Magie](/Spells/Magie.md)
+
+[Trappole](/Traps/Trappole.md)
 
 ---
 
