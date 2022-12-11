@@ -2,17 +2,17 @@
 ### Per vedere le altre carte consentite all'interno del formato segui i link in basso:
 
 
-[Mostri Normali](/NormalMonsters/MostriNormali.md)
+[Mostri Normali](../NormalMonsters/MostriNormali.md)
 
-[Mostri Rituale](/RitualMonsters/MostriRituale.md)
+[Mostri Rituale](../RitualMonsters/MostriRituale.md)
 
-[Mostri con Effetto](/EffectMonsters/MostriEffetto.md)
+[Mostri con Effetto](../EffectMonsters/MostriEffetto.md)
 
-[Mostri dell'Extra Deck](/ExtraDeckMonsters/MostriExtraDeck.md)
+[Mostri dell'Extra Deck](../ExtraDeckMonsters/MostriExtraDeck.md)
 
-[Banlist](lor-96.github.io/README.md)
+[Banlist](../README.md)
 
-[Trappole](/Traps/Trappole.md)
+[Trappole](../Traps/Trappole.md)
 
 ---
 
