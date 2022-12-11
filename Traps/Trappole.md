@@ -12,6 +12,8 @@
 
 [Magie](Spells/Magie.md)
 
+[Banlist](README.md)
+
 ---
 
 | Trappole:                              |Tipo: |
