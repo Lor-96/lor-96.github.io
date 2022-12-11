@@ -10,7 +10,7 @@
 
 [Mostri dell'Extra Deck](/ExtraDeckMonsters/MostriExtraDeck.md)
 
-[Magie](Spells/Magie.md)
+[Magie](/Spells/Magie.md)
 
 [Banlist](README.md)
 
