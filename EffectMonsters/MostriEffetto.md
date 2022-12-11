@@ -1,4 +1,3 @@
-# BASH DUEL Homepage
 
 ## Mostri con Effetto consentiti per il formato Bash Duel 
 
