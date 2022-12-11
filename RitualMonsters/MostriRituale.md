@@ -1,3 +1,19 @@
+# Banlist Bash Duel 
+### Per vedere le altre carte consentite all'interno del formato segui i link in basso:
+
+
+[Mostri Normali](/NormalMonsters/MostriNormali.md)
+
+[Banlist](/RitualMonsters/README.md)
+
+[Mostri con Effetto](/EffectMonsters/MostriEffetto.md)
+
+[Mostri dell'Extra Deck](/ExtraDeckMonsters/MostriExtraDeck.md)
+
+
+---
+
+
 |Mostri Rituali:                    |Tipo: |
 |:-------------------------:|:----:|
 | Abbandono                 | ![#3399ff](https://placehold.co/15x15/3399ff/3399ff.png) |
