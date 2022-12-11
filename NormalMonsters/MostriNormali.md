@@ -2,7 +2,7 @@
 ### Per vedere le altre carte consentite all'interno del formato segui i link in basso:
 
 
-[Banlist](README.md)
+[Banlist](lor-96.github.io/README.md)
 
 [Mostri Rituale](/RitualMonsters/MostriRituale.md)
 
