@@ -1,4 +1,3 @@
-# BASH DUEL Homepage
 
 ## Carte Magia consentite nel formato Bash Duel 
 
