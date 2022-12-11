@@ -8,7 +8,7 @@
 
 [Mostri con Effetto](/EffectMonsters/MostriEffetto.md)
 
-[Banlist](README.md)
+[Banlist](lor-96.github.io/README.md)
 
 [Magie](/Spells/Magie.md)
 
