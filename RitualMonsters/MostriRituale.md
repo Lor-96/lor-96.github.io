@@ -4,7 +4,7 @@
 
 [Mostri Normali](/NormalMonsters/MostriNormali.md)
 
-[Banlist](/RitualMonsters/README.md)
+[Banlist](lor-96.github.io/README.md)
 
 [Mostri con Effetto](/EffectMonsters/MostriEffetto.md)
 
