@@ -10,7 +10,7 @@
 
 [Mostri dell'Extra Deck](/ExtraDeckMonsters/MostriExtraDeck.md)
 
-[Banlist](README.md)
+[Banlist](lor-96.github.io/README.md)
 
 [Trappole](/Traps/Trappole.md)
 
