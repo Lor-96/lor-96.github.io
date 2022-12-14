@@ -5,14 +5,17 @@
 ### Per vedere le altre carte consentite all'interno del formato segui i link in basso:
 
 
-[Mostri Normali](/NormalMonsters/MostriNormali.md)                    [Mostri dell'Extra Deck](/ExtraDeckMonsters/MostriExtraDeck.md)
+[Mostri Normali](/NormalMonsters/MostriNormali.md)
 
+[Mostri Rituale](/RitualMonsters/MostriRituale.md)
 
-[Mostri Rituale](/RitualMonsters/MostriRituale.md)                    [Magie](/Spells/Magie.md)
+[Mostri con Effetto](/EffectMonsters/MostriEffetto.md)
 
+[Mostri dell'Extra Deck](/ExtraDeckMonsters/MostriExtraDeck.md)
 
-[Mostri con Effetto](/EffectMonsters/MostriEffetto.md)                [Trappole](/Traps/Trappole.md)
+[Magie](/Spells/Magie.md)
 
+[Trappole](/Traps/Trappole.md)
 
 [Entra nel server Discord di Bash Duel](https://discord.gg/5PpMBYZf)
 
