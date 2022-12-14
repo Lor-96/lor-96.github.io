@@ -19,11 +19,10 @@
 
 [Entra nel server Discord di Bash Duel](https://discord.gg/5XVExPRbbJ)
 
-
 ---
 
 |Tipo:     | Limitate:                   | Formato: | Stato: |
-|:--------:|:---------------------------:|:--------:|:---------------------------------------------------------:|
+|:--------:|:---------------------------:|:--------:|:------:|
 | <img src="/images/effect.png" alt="drawing" width="20"/> | Breaker il Guerriero Magico | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
 | <img src="/images/effect.png" alt="drawing" width="20"/> | Insetto Mangia-Uomini       | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
 | <img src="/images/effect.png" alt="drawing" width="20"/> | Jinzo                       | Limitata | <img src="/images/limited.png" alt="drawing" width="30"/> |
