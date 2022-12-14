@@ -17,6 +17,8 @@
 
 [Banlist](../README.md)
 
+[Entra nel server Discord di Bash Duel](https://discord.gg/5PpMBYZf)
+
 ---
 
 | Trappole:                              |Tipo: |
