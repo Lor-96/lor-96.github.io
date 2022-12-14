@@ -22,16 +22,16 @@
 ---
 
 
-|Mostri Rituali:                    |Tipo: |
-|:-------------------------:|:----:|
-| Abbandono                 | ![#3399ff](https://placehold.co/15x15/3399ff/3399ff.png) |
-| Balena Fortezza           | ![#3399ff](https://placehold.co/15x15/3399ff/3399ff.png) |
-| Cyber Angelo Benten       | ![#3399ff](https://placehold.co/15x15/3399ff/3399ff.png) |
-| Cyber Angelo Idaten       | ![#3399ff](https://placehold.co/15x15/3399ff/3399ff.png) |
-| Cyber Angelo Izana        | ![#3399ff](https://placehold.co/15x15/3399ff/3399ff.png) |
-| Dokurorider               | ![#3399ff](https://placehold.co/15x15/3399ff/3399ff.png) |
-| Glorioso Soldato Nero     | ![#3399ff](https://placehold.co/15x15/3399ff/3399ff.png) |
-| La Bestia Mascherata      | ![#3399ff](https://placehold.co/15x15/3399ff/3399ff.png) |
-| Paladino del Drago Bianco | ![#3399ff](https://placehold.co/15x15/3399ff/3399ff.png) |
-| Prestazione della Spada   | ![#3399ff](https://placehold.co/15x15/3399ff/3399ff.png) |
-| Super Leone da Guerra     | ![#3399ff](https://placehold.co/15x15/3399ff/3399ff.png) |
+|Mostri Rituali:            |Tipo:                                                       |
+|:-------------------------:|:----------------------------------------------------------:|
+| Abbandono                 | <img src="../images/ritual.png" alt="drawing" width="20"/> |
+| Balena Fortezza           | <img src="../images/ritual.png" alt="drawing" width="20"/> |
+| Cyber Angelo Benten       | <img src="../images/ritual.png" alt="drawing" width="20"/> |
+| Cyber Angelo Idaten       | <img src="../images/ritual.png" alt="drawing" width="20"/> |
+| Cyber Angelo Izana        | <img src="../images/ritual.png" alt="drawing" width="20"/> |
+| Dokurorider               | <img src="../images/ritual.png" alt="drawing" width="20"/> |
+| Glorioso Soldato Nero     | <img src="../images/ritual.png" alt="drawing" width="20"/> |
+| La Bestia Mascherata      | <img src="../images/ritual.png" alt="drawing" width="20"/> |
+| Paladino del Drago Bianco | <img src="../images/ritual.png" alt="drawing" width="20"/> |
+| Prestazione della Spada   | <img src="../images/ritual.png" alt="drawing" width="20"/> |
+| Super Leone da Guerra     | <img src="../images/ritual.png" alt="drawing" width="20"/> |
