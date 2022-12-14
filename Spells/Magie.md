@@ -21,213 +21,213 @@
 
 ---
 
-| Magie:                                     |Tipo: |
-|:------------------------------------------:|:----:|
-| 7 Completati                               | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Acceleratore Fiammata                      | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Acceleratore Tri-Fiammata                  | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Agnelli Dispersi                           | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Albero di Cristallo                        | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Alza Calore Corporeo                       | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Amplificatore                              | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Amuleto dell'Ambizione                     | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Annulla Carta Magia                        | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Antica Città Rovine Arcobaleno             | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Arma Fusione                               | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Arma Rituale                               | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Armatura Insetto con Cannone Laser         | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Armatura Laser                             | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Armeria Nascosta                           | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Arte Avanzata del Rituale                  | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Arte dell'Evocatore                        | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Ascia Gravitazionale - Grarl               | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Attaccare la Luna!                         | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Attacco Mago Nero                          | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Avamposto                                  | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Avanzata delle Carte                       | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Bacchetta Miracolosa                       | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Barriera Arcana                            | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Benedizione Cristallo                      | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Benedizione di Sebek                       | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Blocca-Attacco                             | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Cambio Arma                                | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Campo Magnetico                            | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Castello-Ingranaggio Antico                | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Cestus di Dagla                            | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Circo Goblin                               | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Città degli Ingranaggi                     | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Città Oscura                               | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Colpo di Lancia Spirale                    | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Cristallo Viola                            | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Cyber Scudo                                | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Dadi Graziosi                              | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Dadotifone                                 | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Dedizione alla Luce e all'Oscurità         | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Defusione                                  | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Destino Silente                            | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Differente Capsula Dimensionale            | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Dispositivo di Apprendimento Usa e Getta   | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Distruzione Schiacciante                   | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Dividi la Sofferenza                       | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Dono dell'Elefante Bianco                  | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Doppia Evocazione                          | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Doppio Ciclone                             | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Egotista Elegante                          | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Eliminazione del Guerriero                 | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Emblema dell'Ammazzi Draghi                | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Eredità Amazoness                          | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Eruzione Oscura                            | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Esplosione a Onde Soniche                  | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Esplosione dello Scudo                     | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Esplosione Mokey Mokey                     | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Fabbrica di Macchine                       | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Fascino dell'Oscurità                      | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Flamberga Spezza-Malvagi - Baou            | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Flauto Evoca-Draghi                        | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Flint                                      | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Foglio Illustrativo Toon                   | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Foresta                                    | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Foresta Spirituale                         | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Formazione di Fuoco - Tenki                | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Formula Magica                             | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Fossile Vivente                            | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Fuoco Selvaggio                            | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Fusione Futura                             | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Fusione Soldato Spada della Distruzione    | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Fusione Sovraccarico                       | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Gabbia Insetto                             | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Giuramento degli Arcidemoni                | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Giuramento della Balena Fortezza           | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Grande Destino                             | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Grattacielo                                | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Grattacielo 2 - La Città degli Eroi        | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| H - Ho il Cuore in Fiamme                  | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Hangar Unione                              | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Il Guerriero Sopravvissuto                 | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Il Pupazzo Magico del Sovrano Oscuro       | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Impatto Cyberoscuro!                       | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Impianto di Riciclaggio Fusione            | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Industria Oscura della Produzione di Massa | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Inizio delle Danze                         | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Inverti Creatura                           | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| L'Inizio della Fine                        | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| La Grande Mandria                          | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| La Grande Marcia degli Animali             | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| La Tomba Vuota                             | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Lama Accecante                             | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Lancio del Martello                        | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Lande Desolate                             | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Legame - D2O                               | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Legame - H2O                               | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Libro della Luna                           | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Libro della Vita                           | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Line di Montaggio delle Macchine           | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Livello Superiore!                         | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Maghi Riuniti                              | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Maledizione della Bestia Mascherata        | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Maschera del Maledetto                     | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Maschera dell'Eredità                      | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Maschera della Brutalità                   | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Mezza Chiusura                             | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Mille Coltelli                             | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Mondo Toon                                 | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Montagna                                   | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Murena dell'Avidità                        | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Natura Selvaggia                           | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Offerte al Condannato                      | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Ojamagia                                   | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Ojamatch                                   | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Onda di Calore                             | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Ordine di Carica                           | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Oscurità Avanzata                          | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Oscurità Strisciante                       | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Padronanza del Potere Magico               | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Patto Faustiano                            | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Pergamena della Malia                      | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Pericolo Acquatico                         | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Pescata di Ferro                           | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Piccola Onda Grande Onda                   | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Pietra del Saggio                          | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Pillola dell'Ultra Evoluzione              | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Pioggia di Meteore Fatate                  | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Piramide delle Meraviglie                  | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Polimerizzazione                           | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Potere del Mago                            | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Potere di Kaishin                          | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Pre-Preparazione dei Riti                  | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Promessa Cristallo                         | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Pupazzo da Tributo                         | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Quinta Speranza                            | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| R - Retta Giustizia                        | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Raggio Notturno                            | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Recupera Fusione                           | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Riduzione del Costo                        | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Riemersione                                | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Rilascio Cristallo                         | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Rilascio delle Anime                       | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Rimozione della Restrizione                | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Rimpicciolire                              | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Rinascita di Dokurorider                   | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Rinforzi dell'Esercito                     | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Riposo Eterno                              | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Riryoku                                    | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Rito della Gloria Nera                     | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Rito Illusione Nera                        | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Rito Magia Oscura                          | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Ritorno Toon                               | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Rituale del Drago Bianco                   | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Rituale del Leone da Guerra                | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Rituale dell'Angelo Macchina               | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Rompi! Pesca!                              | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Sabatiel - La Pietra Filosofale            | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Saggio delle Fusioni                       | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Salamandra                                 | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Santuario del Demone                       | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Santuario Rigoglioso                       | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Scaglie Berserk                            | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Scambio Creature                           | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Scambio di Anime                           | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Scintilla d'Estasi Triangolare             | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Scudo e Spada                              | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Scudo Perforante                           | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Segnalibro Toon                            | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Sipario Magico Nero                        | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Soffio Esplosivo di Distruzione            | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Sogen                                      | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Spada Anima di Drago                       | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Spada Distruttrice                         | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Spada Leggendaria                          | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Spada Solitaria Avvelenata                 | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Spada Vendicatrice                         | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Spada-Fusione Lama Murasame                | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Spazzata di Coda                           | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Spirito Combattente                        | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Spirito del Destino                        | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Spray                                      | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Squadra di Rifornimento                    | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Squadra di Riserva                         | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Stanza Prova Incantesimo                   | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Stele Custode di Tombe                     | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Stipulazione di un Contratto               | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Tempesta                                   | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Tempio Nascosto della Necrovalle           | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Tentazione Cristallo                       | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Terra degli Ojama                          | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Terremoto                                  | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Terreno di Caccia delle Arpie              | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Toon Ombra                                 | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Trascendenza Spazio - Temporale            | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Tri-Spettro                                | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Tributo al Dannato                         | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Turbine                                    | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Umi                                        | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Un Eroe Sopravvivve                        | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Un Oceano Leggendario                      | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Uniti Resistiamo                           | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Uragano Ojama Delta!!                      | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Valhalla, Sala dei Caduti                  | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Valore Raro                                | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Velo dell'Oscurità                         | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Verme Esca                                 | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Yami                                       | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
-| Zona di Connessione Vehicroid              | ![#00cc99](https://placehold.co/15x15/00cc99/00cc99.png) |
+| Magie:                                     |Tipo:                                                       |
+|:------------------------------------------:|:----------------------------------------------------------:|
+| 7 Completati                               | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Acceleratore Fiammata                      | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Acceleratore Tri-Fiammata                  | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Agnelli Dispersi                           | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Albero di Cristallo                        | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Alza Calore Corporeo                       | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Amplificatore                              | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Amuleto dell'Ambizione                     | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Annulla Carta Magia                        | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Antica Città Rovine Arcobaleno             | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Arma Fusione                               | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Arma Rituale                               | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Armatura Insetto con Cannone Laser         | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Armatura Laser                             | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Armeria Nascosta                           | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Arte Avanzata del Rituale                  | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Arte dell'Evocatore                        | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Ascia Gravitazionale - Grarl               | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Attaccare la Luna!                         | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Attacco Mago Nero                          | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Avamposto                                  | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Avanzata delle Carte                       | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Bacchetta Miracolosa                       | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Barriera Arcana                            | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Benedizione Cristallo                      | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Benedizione di Sebek                       | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Blocca-Attacco                             | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Cambio Arma                                | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Campo Magnetico                            | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Castello-Ingranaggio Antico                | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Cestus di Dagla                            | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Circo Goblin                               | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Città degli Ingranaggi                     | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Città Oscura                               | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Colpo di Lancia Spirale                    | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Cristallo Viola                            | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Cyber Scudo                                | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Dadi Graziosi                              | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Dadotifone                                 | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Dedizione alla Luce e all'Oscurità         | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Defusione                                  | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Destino Silente                            | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Differente Capsula Dimensionale            | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Dispositivo di Apprendimento Usa e Getta   | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Distruzione Schiacciante                   | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Dividi la Sofferenza                       | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Dono dell'Elefante Bianco                  | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Doppia Evocazione                          | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Doppio Ciclone                             | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Egotista Elegante                          | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Eliminazione del Guerriero                 | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Emblema dell'Ammazzi Draghi                | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Eredità Amazoness                          | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Eruzione Oscura                            | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Esplosione a Onde Soniche                  | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Esplosione dello Scudo                     | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Esplosione Mokey Mokey                     | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Fabbrica di Macchine                       | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Fascino dell'Oscurità                      | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Flamberga Spezza-Malvagi - Baou            | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Flauto Evoca-Draghi                        | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Flint                                      | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Foglio Illustrativo Toon                   | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Foresta                                    | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Foresta Spirituale                         | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Formazione di Fuoco - Tenki                | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Formula Magica                             | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Fossile Vivente                            | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Fuoco Selvaggio                            | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Fusione Futura                             | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Fusione Soldato Spada della Distruzione    | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Fusione Sovraccarico                       | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Gabbia Insetto                             | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Giuramento degli Arcidemoni                | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Giuramento della Balena Fortezza           | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Grande Destino                             | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Grattacielo                                | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Grattacielo 2 - La Città degli Eroi        | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| H - Ho il Cuore in Fiamme                  | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Hangar Unione                              | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Il Guerriero Sopravvissuto                 | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Il Pupazzo Magico del Sovrano Oscuro       | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Impatto Cyberoscuro!                       | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Impianto di Riciclaggio Fusione            | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Industria Oscura della Produzione di Massa | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Inizio delle Danze                         | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Inverti Creatura                           | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| L'Inizio della Fine                        | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| La Grande Mandria                          | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| La Grande Marcia degli Animali             | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| La Tomba Vuota                             | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Lama Accecante                             | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Lancio del Martello                        | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Lande Desolate                             | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Legame - D2O                               | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Legame - H2O                               | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Libro della Luna                           | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Libro della Vita                           | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Line di Montaggio delle Macchine           | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Livello Superiore!                         | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Maghi Riuniti                              | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Maledizione della Bestia Mascherata        | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Maschera del Maledetto                     | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Maschera dell'Eredità                      | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Maschera della Brutalità                   | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Mezza Chiusura                             | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Mille Coltelli                             | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Mondo Toon                                 | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Montagna                                   | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Murena dell'Avidità                        | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Natura Selvaggia                           | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Offerte al Condannato                      | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Ojamagia                                   | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Ojamatch                                   | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Onda di Calore                             | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Ordine di Carica                           | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Oscurità Avanzata                          | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Oscurità Strisciante                       | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Padronanza del Potere Magico               | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Patto Faustiano                            | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Pergamena della Malia                      | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Pericolo Acquatico                         | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Pescata di Ferro                           | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Piccola Onda Grande Onda                   | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Pietra del Saggio                          | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Pillola dell'Ultra Evoluzione              | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Pioggia di Meteore Fatate                  | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Piramide delle Meraviglie                  | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Polimerizzazione                           | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Potere del Mago                            | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Potere di Kaishin                          | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Pre-Preparazione dei Riti                  | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Promessa Cristallo                         | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Pupazzo da Tributo                         | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Quinta Speranza                            | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| R - Retta Giustizia                        | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Raggio Notturno                            | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Recupera Fusione                           | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Riduzione del Costo                        | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Riemersione                                | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Rilascio Cristallo                         | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Rilascio delle Anime                       | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Rimozione della Restrizione                | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Rimpicciolire                              | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Rinascita di Dokurorider                   | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Rinforzi dell'Esercito                     | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Riposo Eterno                              | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Riryoku                                    | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Rito della Gloria Nera                     | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Rito Illusione Nera                        | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Rito Magia Oscura                          | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Ritorno Toon                               | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Rituale del Drago Bianco                   | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Rituale del Leone da Guerra                | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Rituale dell'Angelo Macchina               | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Rompi! Pesca!                              | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Sabatiel - La Pietra Filosofale            | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Saggio delle Fusioni                       | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Salamandra                                 | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Santuario del Demone                       | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Santuario Rigoglioso                       | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Scaglie Berserk                            | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Scambio Creature                           | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Scambio di Anime                           | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Scintilla d'Estasi Triangolare             | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Scudo e Spada                              | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Scudo Perforante                           | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Segnalibro Toon                            | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Sipario Magico Nero                        | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Soffio Esplosivo di Distruzione            | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Sogen                                      | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Spada Anima di Drago                       | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Spada Distruttrice                         | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Spada Leggendaria                          | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Spada Solitaria Avvelenata                 | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Spada Vendicatrice                         | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Spada-Fusione Lama Murasame                | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Spazzata di Coda                           | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Spirito Combattente                        | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Spirito del Destino                        | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Spray                                      | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Squadra di Rifornimento                    | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Squadra di Riserva                         | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Stanza Prova Incantesimo                   | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Stele Custode di Tombe                     | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Stipulazione di un Contratto               | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Tempesta                                   | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Tempio Nascosto della Necrovalle           | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Tentazione Cristallo                       | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Terra degli Ojama                          | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Terremoto                                  | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Terreno di Caccia delle Arpie              | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Toon Ombra                                 | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Trascendenza Spazio - Temporale            | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Tri-Spettro                                | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Tributo al Dannato                         | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Turbine                                    | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Umi                                        | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Un Eroe Sopravvivve                        | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Un Oceano Leggendario                      | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Uniti Resistiamo                           | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Uragano Ojama Delta!!                      | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Valhalla, Sala dei Caduti                  | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Valore Raro                                | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Velo dell'Oscurità                         | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Verme Esca                                 | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Yami                                       | <img src="../images/spell.png" alt="drawing" width="20"/> |
+| Zona di Connessione Vehicroid              | <img src="../images/spell.png" alt="drawing" width="20"/> |
