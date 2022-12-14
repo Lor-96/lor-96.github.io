@@ -22,132 +22,132 @@
 ---
 
 
-|Mostri Normali:                    |Tipo: |
-|:---------------------------------:|:----:|
-| Abisso Splendente                 | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Alinsection                       | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Alligatore Toon                   | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Anatema del Drago                 | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Anthrosaurus                      | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Antico Cervello                   | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Ascia da Guerra                   | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Avian EROE Elementale             | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Bambola Mortale                   | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Bestia di Talwar                  | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Bokoichi il Vagone Spaventoso     | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Burstrinatrix EROE Elementale     | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Cacciatore di Colli               | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Capelli di Serpente               | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Castoro Guerriero                 | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Cavaliere del Jack                | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Cavaliere del Re                  | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Cavaliere della Regina            | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Cavaliere Robotico                | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Centauro Mistico                  | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Clausolas Alleato della Giustizia | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Clayman EROE Elementale           | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Coniglio Oscuro                   | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Conte del testamento              | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Corvo Coda-di-Frusta              | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Cucciolo di Drago                 | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Custode del Cancello              | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Cycroid                           | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Demone Selvaggio                  | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Dokuroyaiba                       | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Drago Alato #1                    | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Drago Avido #2                    | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Drago Bianco Occhi Blu            | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Drago Cacciatore                  | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Drago Meteora                     | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Drago Nero Occhi Rossi            | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Drago Serpente Notturno           | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Drago Strisciante #2              | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Drago Zombie                      | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Elfo Mistico                      | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Fatasma Magico                    | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Gagagigo                          | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Gaia il Cavaliere                 | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Gazelle, Re delle Bestie Mitiche  | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Genio della Lampada               | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Giga Gagagigo                     | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Gigante Hitotsu-Me                | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Gilgarth                          | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Girochin Kuwagata                 | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Golem Distruttore                 | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Grande Antico Tiki                | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Grande Insetto                    | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Grande Koala                      | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Guardiano Celtico                 | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Guerriero Dai Grepher             | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Guerriero Magnetico Alfa          | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Guerriero Magnetico Beta          | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Guerriero Magnetico Gamma         | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Hyozanryu                         | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Idolo dai 1000 Occhi              | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Il Cavaliere Senza Testa          | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Il Fantasma dei Sogni Scomparsi   | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Il Giudicatore                    | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Inpachi Carbone                   | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Inpachi Fiammegiante              | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Insetto della Foresta             | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Insetto Metallo Corazzato         | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Kabazauls                         | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Kairyu-Shin                       | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Kumootoko                         | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Lama Oscura                       | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Macchina Pendolo                  | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Mago delle Acque                  | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Mago Nero                         | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Mago Senza Volto Illusionista     | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Mangiatore di Vita                | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Mannaia Alata                     | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Mantide Imperatrice               | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Masaki lo Spadaccino Leggendario  | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Meccacciatore                     | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Mech-Soldato Gigante              | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Mega Squalo Bianco                | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Melchid la Bestia Quattro Facce   | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Melma Cangiante                   | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Mietitore di Fuoco                | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Mokey Mokey                       | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Mura Labirintiche                 | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Ojama Giallo                      | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Ojama Nero                        | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Ojama Verde                       | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Ombra dell'Oscurità               | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Opticlops                         | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Papera Sonica                     | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Pappadragallo                     | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Pattinatrice Lama                 | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Pesce Matto                       | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Piccola Falena                    | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Predatore Vorse                   | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Predone d'Ascia                   | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Prigioniero Oscuro                | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Ragazza Arciere                   | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Ragno Lancia-missili              | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Ryu-Kishin Potenziato             | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Saggi, Clown Oscuro               | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Sciabolasaurus                    | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Scizzar il Coraggioso             | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Servitore del Teschio             | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Signore delle Fiamme              | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Slot Machine                      | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Soldato di Pietra                 | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Spada dell'Alligatore             | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Spada in Agguato                  | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Sparkman EROE Elementale          | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Spettro Ombra                     | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Spirito Terralegato               | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Strega Oscura Dunares             | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Teschio Evocato                   | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Tirannosauro Rex a Due Teste      | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Tomozaurus                        | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Urabysauro                        | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| V-Tigre Jet                       | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Wetha                             | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| X-Testa Cannone                   | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Yaiba il Robot                    | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Zanna d'Argento                   | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Zoa                               | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
-| Zombie Corazzato                  | ![#ffff99](https://placehold.co/15x15/ffff99/ffff99.png) |
+|Mostri Normali:                    |Tipo:                                                       |
+|:---------------------------------:|:----------------------------------------------------------:|
+| Abisso Splendente                 | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Alinsection                       | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Alligatore Toon                   | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Anatema del Drago                 | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Anthrosaurus                      | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Antico Cervello                   | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Ascia da Guerra                   | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Avian EROE Elementale             | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Bambola Mortale                   | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Bestia di Talwar                  | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Bokoichi il Vagone Spaventoso     | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Burstrinatrix EROE Elementale     | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Cacciatore di Colli               | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Capelli di Serpente               | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Castoro Guerriero                 | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Cavaliere del Jack                | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Cavaliere del Re                  | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Cavaliere della Regina            | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Cavaliere Robotico                | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Centauro Mistico                  | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Clausolas Alleato della Giustizia | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Clayman EROE Elementale           | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Coniglio Oscuro                   | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Conte del testamento              | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Corvo Coda-di-Frusta              | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Cucciolo di Drago                 | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Custode del Cancello              | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Cycroid                           | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Demone Selvaggio                  | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Dokuroyaiba                       | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Drago Alato #1                    | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Drago Avido #2                    | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Drago Bianco Occhi Blu            | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Drago Cacciatore                  | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Drago Meteora                     | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Drago Nero Occhi Rossi            | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Drago Serpente Notturno           | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Drago Strisciante #2              | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Drago Zombie                      | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Elfo Mistico                      | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Fatasma Magico                    | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Gagagigo                          | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Gaia il Cavaliere                 | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Gazelle, Re delle Bestie Mitiche  | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Genio della Lampada               | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Giga Gagagigo                     | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Gigante Hitotsu-Me                | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Gilgarth                          | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Girochin Kuwagata                 | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Golem Distruttore                 | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Grande Antico Tiki                | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Grande Insetto                    | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Grande Koala                      | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Guardiano Celtico                 | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Guerriero Dai Grepher             | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Guerriero Magnetico Alfa          | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Guerriero Magnetico Beta          | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Guerriero Magnetico Gamma         | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Hyozanryu                         | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Idolo dai 1000 Occhi              | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Il Cavaliere Senza Testa          | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Il Fantasma dei Sogni Scomparsi   | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Il Giudicatore                    | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Inpachi Carbone                   | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Inpachi Fiammegiante              | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Insetto della Foresta             | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Insetto Metallo Corazzato         | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Kabazauls                         | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Kairyu-Shin                       | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Kumootoko                         | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Lama Oscura                       | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Macchina Pendolo                  | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Mago delle Acque                  | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Mago Nero                         | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Mago Senza Volto Illusionista     | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Mangiatore di Vita                | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Mannaia Alata                     | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Mantide Imperatrice               | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Masaki lo Spadaccino Leggendario  | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Meccacciatore                     | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Mech-Soldato Gigante              | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Mega Squalo Bianco                | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Melchid la Bestia Quattro Facce   | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Melma Cangiante                   | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Mietitore di Fuoco                | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Mokey Mokey                       | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Mura Labirintiche                 | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Ojama Giallo                      | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Ojama Nero                        | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Ojama Verde                       | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Ombra dell'Oscurità               | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Opticlops                         | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Papera Sonica                     | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Pappadragallo                     | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Pattinatrice Lama                 | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Pesce Matto                       | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Piccola Falena                    | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Predatore Vorse                   | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Predone d'Ascia                   | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Prigioniero Oscuro                | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Ragazza Arciere                   | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Ragno Lancia-missili              | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Ryu-Kishin Potenziato             | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Saggi, Clown Oscuro               | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Sciabolasaurus                    | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Scizzar il Coraggioso             | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Servitore del Teschio             | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Signore delle Fiamme              | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Slot Machine                      | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Soldato di Pietra                 | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Spada dell'Alligatore             | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Spada in Agguato                  | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Sparkman EROE Elementale          | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Spettro Ombra                     | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Spirito Terralegato               | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Strega Oscura Dunares             | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Teschio Evocato                   | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Tirannosauro Rex a Due Teste      | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Tomozaurus                        | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Urabysauro                        | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| V-Tigre Jet                       | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Wetha                             | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| X-Testa Cannone                   | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Yaiba il Robot                    | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Zanna d'Argento                   | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Zoa                               | <img src="../images/normal.png" alt="drawing" width="20"/> |
+| Zombie Corazzato                  | <img src="../images/normal.png" alt="drawing" width="20"/> |
