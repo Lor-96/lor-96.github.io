@@ -19,14 +19,6 @@
 
 [Entra nel server Discord di Bash Duel](https://discord.gg/5XVExPRbbJ)
 
----
-
-|Tipo:                                                   | Proibite:                                       | Formato: | Stato: |
-|:------------------------------------------------------:|:-----------------------------------------------:|:--------:|:------:|
-| <img src="/images/link.png" alt="drawing" width="20"/> | Cherubino, Angelo d'Ebano dell'Abisso Bruciante | Proibita | <img src="/images/banned.png" alt="drawing" width="30"/> |
-| <img src="/images/synchro.png" alt="drawing" width="20"/> | Virgil, Rock Star dell'Abisso Bruciante | Proibita |<img src="/images/banned.png" alt="drawing" width="30"/> |
-| <img src="/images/xyz.png" alt="drawing" width="20"/> | Dante, Viaggiatore dell'Abisso Bruciante | Proibita | <img src="/images/banned.png" alt="drawing" width="30"/> |
-
 
 ---
 
