@@ -17,7 +17,7 @@
 
 [Trappole](/Traps/Trappole.md)
 
-[Entra nel server Discord di Bash Duel](https://discord.gg/5PpMBYZf)
+[Entra nel server Discord di Bash Duel](https://discord.gg/5XVExPRbbJ)
 
 ---
 
