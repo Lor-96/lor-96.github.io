@@ -26,5 +26,5 @@
 
 | Pendulum Normali: | Tipo: | 
 |:-----------------:|:-----:|
-| Tacchino Mite | <img src="../images/pendulumnormal.png" alt="drawing" width="20"/> |
+| [Tacchino Mite](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12393) | <img src="../images/pendulumnormal.png" alt="drawing" width="20"/> |
 
